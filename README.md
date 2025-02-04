@@ -5,6 +5,7 @@ Both apps were created following Ubaldo Acosta's lead during his "Universidad Ja
 Technologies used for this app include:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
 ![PrimeFaces](https://img.shields.io/badge/PrimeFaces-5.3.4-blue.svg?style=for-the-badge)
 ![JSF](https://img.shields.io/badge/JSF-2.3-blue.svg?style=for-the-badge)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.1.2-brightgreen.svg?style=for-the-badge&logo=spring&logoColor=white)
