@@ -1,4 +1,4 @@
-This app is a web app iteration of my previous Spring app, Zona Fit.
+## Welcome to Zona Fit, a JSF + PrimeFace iteration of my previous Spring app, Zona Fit! 🚀
 
 Both apps were created following Ubaldo Acosta's lead during his "Universidad Java" masterclass.
 
